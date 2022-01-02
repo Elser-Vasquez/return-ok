@@ -1,15 +1,3 @@
-.container
-{
+.container{
     margin-top: 20px;
-}
-.cabecera
-{
-    margin-top: 20px;
-}
-
-.footer
-{
-    position: absolute;
-    bottom: 0;
-    width: 100%;
 }
